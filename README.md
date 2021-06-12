@@ -2,7 +2,7 @@
 
 🙋 สวัสดีครับ ผม อชิระ ชั่งชัย หรือริว เป็นคนที่ชอบและหลงไหลในเทคโนโลยีและ มีความสนใจในการเขียนโปรแกรมโดยเฉพาะ Web programming และ Network
 
-🔭 I’m currently studying senior hight school at Assumption College Sriracha.
+🔭 I’m currently studying Computer Science at KMITL.
 
 🌱 I’m currently learning Front-End, Back-End, Network & more 😍
 
