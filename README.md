@@ -1,10 +1,10 @@
 # Hi I'm AcRyu01, Welcome to my Github profile 👋
 
-🙋 สวัสดีครับ ผม อชิระ ชั่งชัย หรือริว เป็นคนที่ชอบและหลงไหลในเทคโนโลยีและ มีความสนใจในการเขียนโปรแกรมโดยเฉพาะ Web programming และ Network
+🙋 My name is Achira Changchai or, Ryu.
 
 🔭 I’m currently studying Computer Science at KMITL.
 
-🌱 I’m currently learning Front-End, Back-End, Network & more 😍
+🌱 Interesting in Front-End, Machine Learning, and DevOps.
 
 
 ## ⭐ Quotes
